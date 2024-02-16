@@ -39,7 +39,7 @@ main {
     width: 100%;
     height: 100%;
     z-index: 0; /* Place the background behind the content */
-    background: url('../links/matrix_gif.gif') center center fixed;
+    background: url('../assets/matrix_gif.gif') center center fixed;
     background-size: cover;
   }
 
